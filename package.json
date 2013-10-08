@@ -1,0 +1,34 @@
+{
+  "name": "retinify",
+  "version": "0.1.0",
+  "description": "KISS JavaScript documentation generator engine",
+  "main": "lib/index.js",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JosePedroDias/retinify.git"
+  },
+  "keywords": [
+    "CSS",
+    "retina",
+    "generator"
+  ],
+  "author": {
+    "name" : "José Pedro Dias",
+    "email" : "jose.pedro.dias@gmail.com",
+    "url" : "http://josepedrodias.com/"
+  },
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "dependencies": {
+  },
+  "bin": {
+    "inkdoc": "lib/index"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/JosePedroDias/inkdoc/issues"
+  }
+}
