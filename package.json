@@ -1,6 +1,6 @@
 {
   "name": "retinify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "computes different CSS background-position rules parameterized by a multiplier argument",
   "main": "lib/index.js",
   "preferGlobal": true,
@@ -24,7 +24,7 @@
   "dependencies": {
   },
   "bin": {
-    "inkdoc": "lib/index"
+    "retinify": "lib/index.js"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
